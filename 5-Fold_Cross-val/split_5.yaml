@@ -1,0 +1,7 @@
+path: /home/bruno/Documentos/yolo/D-Fire
+train: /home/bruno/Documentos/yolo/5-Fold_Cross-val/split_5_train.txt
+val: /home/bruno/Documentos/yolo/5-Fold_Cross-val/split_5_val.txt
+names:
+  0: smoke
+  1: fire
+nc: 2
